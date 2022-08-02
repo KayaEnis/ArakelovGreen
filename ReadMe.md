@@ -1,5 +1,3 @@
-SageMath code for computing Arakelov-Green functions on metrized graphs
-
 A collection of mathematical tools related to metrized graphs. Most
 importantly, the repositoriy includes 
 1) the MetrizedGraph class, and 
