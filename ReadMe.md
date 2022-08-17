@@ -4,6 +4,8 @@ importantly, the repositoriy includes
 2) a method to compute the Arakelov-Green function g_muD for given 
 a divisor D.
 
+The corresponding paper is https://arxiv.org/abs/2208.05857.
+
 August, 2022
 
 Enis Kaya (joint work with Ruben Merlijn van Dijk)
